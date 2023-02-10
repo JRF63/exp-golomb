@@ -2,6 +2,12 @@
 name = "exp-golomb"
 version = "0.1.0"
 edition = "2021"
+description = "Utilities for Exponential-Golomb coding"
+authors = ["Joseph Rafael Ferrer <rafael2x0@gmail.com>"]
 license = "MIT OR Apache-2.0"
-description = "TODO"
-authors = ["Joseph Rafael Ferrer <jrtferrer@protonmail.com>"]
+homepage = "https://github.com/JRF63/exp-golomb"
+repository = "https://github.com/JRF63/exp-golomb"
+readme = "README.md"
+
+[dev-dependencies]
+rand = "0.8"
