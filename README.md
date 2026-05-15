@@ -14,7 +14,7 @@ Using the Wikipedia example:
 |5      | 00110       |
 |6      | 00111       |
 |7      | 0001000     |
-|8      | 000100      |
+|8      | 0001001     |
 
 ```rust
 use exp_golomb::{ExpGolombDecoder, ExpGolombEncoder};
